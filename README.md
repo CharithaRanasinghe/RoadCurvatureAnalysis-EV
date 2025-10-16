@@ -108,3 +108,6 @@ Suggested: **MIT License** (permissive, easy for collaboration)
 4. Open a pull request
 
 ---
+
+
+<img width="1506" height="839" alt="WheelPowerDistribution-withCurvature" src="https://github.com/user-attachments/assets/88c876cf-3cf0-41da-84b8-98337037068b" />
