@@ -12,6 +12,11 @@ Target users: researchers, EEE/transportation students, EV control engineers, an
 
 ---
 
+## Example
+
+Kadawatha-Expressway - Kadawatha Interchange - Outer Circular Highway
+https://github.com/CharithaRanasinghe/RoadCurvatureAnalysis-EV/tree/ExampleWheelPowerDistribution-KadawathaExpressway
+
 ## Features
 
 * Parse GPX and CSV tracks (handles timestamps if present)
