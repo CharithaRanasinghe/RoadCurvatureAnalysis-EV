@@ -23,6 +23,7 @@ Target users: researchers, EEE/transportation students, EV control engineers, an
 * Plot curvature and wheel-speed profiles (combined plot)
 * Configurable vehicle parameters (track width, wheel radius, default speed)
 
+<img width="1350" height="492" alt="SelectedTrackforAnalysis" src="https://github.com/user-attachments/assets/f7d35e1e-6b7b-45f7-bc99-1a56ba15a658" />
 ---
 
 ## Quickstart
