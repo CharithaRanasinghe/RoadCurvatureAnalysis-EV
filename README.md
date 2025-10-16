@@ -17,6 +17,12 @@ Target users: researchers, EEE/transportation students, EV control engineers, an
 Kadawatha-Expressway - Kadawatha Interchange - Outer Circular Highway
 https://github.com/CharithaRanasinghe/RoadCurvatureAnalysis-EV/tree/ExampleWheelPowerDistribution-KadawathaExpressway
 
+<img width="1350" height="492" alt="SelectedTrackforAnalysis" src="https://github.com/user-attachments/assets/f7d35e1e-6b7b-45f7-bc99-1a56ba15a658" />
+
+<img width="1506" height="839" alt="WheelPowerDistribution-withCurvature" src="https://github.com/user-attachments/assets/88c876cf-3cf0-41da-84b8-98337037068b" />
+
+---
+
 ## Features
 
 * Parse GPX and CSV tracks (handles timestamps if present)
@@ -28,7 +34,6 @@ https://github.com/CharithaRanasinghe/RoadCurvatureAnalysis-EV/tree/ExampleWheel
 * Plot curvature and wheel-speed profiles (combined plot)
 * Configurable vehicle parameters (track width, wheel radius, default speed)
 
-<img width="1350" height="492" alt="SelectedTrackforAnalysis" src="https://github.com/user-attachments/assets/f7d35e1e-6b7b-45f7-bc99-1a56ba15a658" />
 ---
 
 ## Quickstart
@@ -114,6 +119,3 @@ Suggested: **MIT License** (permissive, easy for collaboration)
 4. Open a pull request
 
 ---
-
-
-<img width="1506" height="839" alt="WheelPowerDistribution-withCurvature" src="https://github.com/user-attachments/assets/88c876cf-3cf0-41da-84b8-98337037068b" />
